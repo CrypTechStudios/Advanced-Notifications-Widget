@@ -1,3 +1,4 @@
+![GitHub Logo](https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/logo.png)
 # Advanced Notifications Widget Plugin
 
 Save yourself some time with one blueprint node that does it all!
