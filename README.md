@@ -1,11 +1,11 @@
 ![GitHub Logo](https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/logo.png)
 # Advanced Notifications Widget Plugin
 
-Save yourself some time with one blueprint node that does it all!
+<img align="left" width="100" height="100" src="https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/thumbnail.png"> Save yourself some time with one blueprint node that does it all!
 This is a complete notification system that gives you a FULL range of configurable options all from a single node.
 Customize your colors, titles, messages, sounds and placement using predefined settings or offset location to anywhere on the screen. User can close via button or auto self destruct after delay (node configurable).
 
-Features:
+**Features:**
 * Custom Placement - Nine predefined locations (Left, Center, Right) / (Top, Middle, Bottom)
 * Ability to offset predefined location to anywhere you choose
 * Predefined Color Pallet (ala Bootstrap standard via notification type)
@@ -17,7 +17,7 @@ Features:
 * Lightweight but powerful plugin
 * Friendly and prompt support
 
-# Instructions for use:
+## Instructions for use:
 1. Purchase and install plugin from Unreal Marketplace.
 2. Create a "Display Notification" node in your project where you want to display a notification.
 3. Configure node options:
