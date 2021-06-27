@@ -15,3 +15,18 @@ Features:
 * Self destruct feature allows you to set a delay before notification disappears without user input
 * Lightweight but powerful plugin
 * Friendly and prompt support
+
+# Instructions for use:
+1. Purchase and install plugin from Unreal Marketplace.
+2. Create a "Display Notification" node in your project where you want to display a notification.
+3. Configure node options:
+  * Notification Type
+  * Title Text (your title)
+  * Description Text (your message)
+  * Self Destruct (don't forget to set delay)
+  * Delay (how long before self destruct)
+  * Horizontal Position
+  * Vertical Position
+  * Offset (this is an offset relative to your horizotal and vertical positioning)
+  * Sound (default will use the default based on notification type, none will mean no sound)
+
