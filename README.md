@@ -21,8 +21,8 @@ Customize your colors, titles, messages, sounds and placement using predefined s
 
 
 ## Instructions for use:
-
 <img align="right" src="https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/node.png">
+
 
 1. Purchase and install plugin from Unreal Marketplace.
 2. Create a "Display Notification" node in your project where you want to display a notification.
