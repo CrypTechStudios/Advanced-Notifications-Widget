@@ -38,3 +38,4 @@ Customize your colors, titles, messages, sounds and placement using predefined s
    * Sound (default will use the default based on notification type, none will mean no sound)
 4. Done - Enjoy!
 
+
