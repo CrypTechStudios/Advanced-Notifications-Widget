@@ -1,7 +1,7 @@
-![GitHub Logo](https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/logo.png)
+![GitHub Logo](https://raw.githubusercontent.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/main/images/logo.png)
 # Advanced Notifications Widget Plugin
 
-<img align="left" width="100" height="100" src="https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/thumbnail.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/main/images/thumbnail.png" style="padding-right: 10px">
 
 Save yourself some time with one blueprint node that does it all!
 This is a complete notification system that gives you a FULL range of configurable options all from a single node.
@@ -21,7 +21,7 @@ Customize your colors, titles, messages, sounds and placement using predefined s
 
 
 ## Instructions for use:
-<img align="right" src="https://github.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/blob/main/images/node.png">
+<img align="right" src="https://raw.githubusercontent.com/CrypTechStudios/Advanced-Notifications-Widget-Plugin/main/images/node.png">
 
 
 1. Purchase and install plugin from Unreal Marketplace.
