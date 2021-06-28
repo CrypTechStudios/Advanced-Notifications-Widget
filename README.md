@@ -34,7 +34,7 @@ Customize your colors, titles, messages, sounds and placement using predefined s
    * Delay (how long before self destruct)
    * Horizontal Position
    * Vertical Position
-   * Offset (this is an offset relative to your horizotal and vertical positioning)
+   * Offset (this is an offset relative to your horizontal and vertical positioning)
    * Sound (default will use the default based on notification type, none will mean no sound)
 4. Done - Enjoy!
 
